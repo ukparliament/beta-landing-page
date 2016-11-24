@@ -1,0 +1,4 @@
+web:
+  image: 'ukpds/beta-landing-page'
+  ports:
+    - '80:3000'
