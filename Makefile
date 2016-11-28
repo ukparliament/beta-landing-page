@@ -1,4 +1,4 @@
-S3_TARGET = s3://ukpds.devci/beta-landing-page
+S3_TARGET = s3://ukpds.devci/
 
 .dummy: deploy
 
